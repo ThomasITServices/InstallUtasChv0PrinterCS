@@ -1,0 +1,8 @@
+c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\bin\Debug\Install_UTAS_CHV0_PRINTERS.exe.config
+c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Install_UTAS_CHV0_PRINTERS.csprojResolveAssemblyReference.cache
+c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\bin\Debug\Install_UTAS_CHV0_PRINTERS.exe
+c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\bin\Debug\Install_UTAS_CHV0_PRINTERS.pdb
+c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Interop.IWshRuntimeLibrary.dll
+c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Install_UTAS_CHV0_PRINTERS.csproj.ResolveComReference.cache
+c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Install_UTAS_CHV0_PRINTERS.exe
+c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Install_UTAS_CHV0_PRINTERS.pdb
