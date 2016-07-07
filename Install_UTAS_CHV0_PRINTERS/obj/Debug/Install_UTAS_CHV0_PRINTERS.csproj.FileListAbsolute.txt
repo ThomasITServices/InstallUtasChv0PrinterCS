@@ -6,3 +6,8 @@ c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRI
 c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Install_UTAS_CHV0_PRINTERS.csproj.ResolveComReference.cache
 c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Install_UTAS_CHV0_PRINTERS.exe
 c:\users\g0069775-ta\documents\visual studio 2015\Projects\Install_UTAS_CHV0_PRINTERS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Install_UTAS_CHV0_PRINTERS.pdb
+C:\Users\Edward Thomas\OneDrive\ThomasITServicesPrograms\CSharp\InstallUtasChv0PrinterCS\Install_UTAS_CHV0_PRINTERS\bin\Debug\Install_UTAS_CHV0_PRINTERS.exe.config
+C:\Users\Edward Thomas\OneDrive\ThomasITServicesPrograms\CSharp\InstallUtasChv0PrinterCS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Edward Thomas\OneDrive\ThomasITServicesPrograms\CSharp\InstallUtasChv0PrinterCS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Install_UTAS_CHV0_PRINTERS.csproj.ResolveComReference.cache
+C:\Users\Edward Thomas\OneDrive\ThomasITServicesPrograms\CSharp\InstallUtasChv0PrinterCS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Install_UTAS_CHV0_PRINTERS.exe
+C:\Users\Edward Thomas\OneDrive\ThomasITServicesPrograms\CSharp\InstallUtasChv0PrinterCS\Install_UTAS_CHV0_PRINTERS\obj\Debug\Install_UTAS_CHV0_PRINTERS.pdb
